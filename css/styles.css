@@ -1,7 +1,54 @@
 body{
-    background-color: black;
+    max-height: 200vh;
 }
 
 .navbar{
     background-color: #fff;
 }
+
+.nav-font{
+    font-size: 0.9rem;
+}
+
+h1{
+    font-family: 'DM Serif Display', serif;
+    font-size: 3.4rem;
+}
+
+h3{
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.2rem;
+}
+
+section .btn{
+    font-size: small;
+    --bs-btn-padding-y: .80rem;
+    --bs-btn-padding-x: .9rem; 
+    --bs-btn-font-size: .75rem;
+}
+
+.Athlete{
+    background-color: blue;
+}
+
+.test{
+    height: 620px;
+}
+
+.float-card{
+    margin-top: 560px;
+    margin-left: 260px;
+    width: 300px;
+    height: 250px;
+    background-color: #ff6c16;
+}
+
+.float-card-two{
+    margin-top: 560px;
+    margin-left: 580px;
+    width: 300px;
+    height: 250px;
+    background-color: #ff9c00;
+}
+
+.
